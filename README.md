@@ -2,6 +2,8 @@
 
 The Southern African Development Community (SADC) is an inter-governmental organisation of Southern and East African territories headquartered in Gaberone, Botswana. Nine out of the 16 countries in this region are considered part of the Least developed countries according to the United nations. Therefore, as measures like fertility and child mortality are inversely proportional to national wealth I analysed whether this applies to SADC countries.
 
+A more in depth explanation of this project is available on my [blog](https://panashekm.wixsite.com/panashe-madzivire/post/gdp-and-child-health-in-sadc).
+
 ## Installation
 The code requires:
 - Python versions of 3.* and general libraries available through the Anaconda package
